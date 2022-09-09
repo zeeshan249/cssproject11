@@ -630,7 +630,12 @@ margin-top: 50px;
         margin-top: .8rem;
     }
 
-
+    .services-section .services-headline h2 {
+        margin-top: 140px;
+        font-size: 1.3rem;
+        color: #14263f;
+      
+    }
 
 
 }
